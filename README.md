@@ -1,7 +1,6 @@
 # Colorectal-Lesions-Segmentation
- Summer Internship Project
-
- <h2> Colorectal Lesions Segmentation assisted by Artificial Intelligence </h2>
+ Summer Internship Project <br>
+ <p> Deep learning based Colorectal Lesions Segmentation  </p>
 <div style="display:flex">
     <img src="colon.png" alt="Colon Sample Image" width="512px">
 </div>
